@@ -1,4 +1,9 @@
-This is some background information about the Linux Auditing Framework.
+Information about Prelude integration
+=====================================
+
+To enable Prelude SIEM sensor, you have to run this :
+
+./configure --with-prelude
 
 LICENSE
 =======
